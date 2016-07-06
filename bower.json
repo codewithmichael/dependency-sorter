@@ -1,0 +1,31 @@
+{
+  "name": "dependency-sorter",
+  "description": "Weighted dependency sorter, based on a depth-first topological sort",
+  "main": "dependency-sorter.js",
+  "authors": [
+    "Michael Spencer <code.with.michael@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "dependency",
+    "sort",
+    "topological",
+    "weight",
+    "weighted",
+    "dependencies",
+    "depends"
+  ],
+  "homepage": "https://github.com/codewithmichael/dependency-sorter",
+  "moduleType": [
+    "amd",
+    "node",
+    "globals"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

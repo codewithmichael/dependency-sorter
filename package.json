@@ -1,0 +1,25 @@
+{
+  "name": "dependency-sorter",
+  "version": "0.1.0",
+  "description": "Weighted dependency sorter, based on a depth-first topological sort",
+  "main": "dependency-sorter.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codewithmichael/dependency-sorter.git"
+  },
+  "keywords": [
+    "dependency",
+    "sort",
+    "topological",
+    "weight",
+    "weighted",
+    "dependencies",
+    "depends"
+  ],
+  "author": "Michael Spencer <code.with.michael@gmail.com> (https://github.com/codewithmichael)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codewithmichael/dependency-sorter/issues"
+  },
+  "homepage": "https://github.com/codewithmichael/dependency-sorter#readme"
+}
